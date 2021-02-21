@@ -17,11 +17,10 @@ Python, Pygame, Numpy?, PyTorch? (Time, Random)
 
 **Pygame:**
 
-```bash
 Pygame allows us to make a screen to display pixels or colors, which are the basis to compose a game. After recalling what we have played before, we know that that the dots are generated randomly during the game, and that's will we will need to import random and time to improve the joy of the game. 
 
 After getting fimiliar with pygame after making the snake game, we will start trying to make the Pac-Man, and it requires a high level technique. The movement of the eaters is more likely to be a procedure of training an AI. The procedure requires the knowledge of Numpy or PyTorch. We will develop further about how we will acheive the goal when after setup the environment. 
-```
+
 
 ### Imediate Goal
 
